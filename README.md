@@ -14,7 +14,7 @@ http://t.cn/EvqDLIp
 
 
 ----------------------------
-1. **Quantumult规则配置说明**
+2. **Quantumult规则配置说明**
 
 - 订阅(Fliter)部分：包括直连、代理和广告屏蔽
 订阅地址：https://github.com/lhie1/Rules/raw/master/Quantumult/Quantumult.conf
@@ -30,7 +30,7 @@ http://t.cn/EvquTnF
 http://t.cn/Evqeewr
 
 ----------------------------
-1. **Surge3规则配置说明**
+3. **Surge3规则配置说明**
 
 - 配置规则(教程中的配置链接)
 https://raw.githubusercontent.com/lhie1/Rules/master/Surge.conf
