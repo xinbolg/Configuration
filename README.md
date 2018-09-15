@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/lhie1/Rules/master/Surge.conf
 - 详细教程图(小新制作)  
 http://t.cn/EvqmjnX    
 
-- 备用图链地址 
+- 备用图链地址  
 http://t.cn/EvUKv7E  
 http://t.cn/EvqDGsb  
 
